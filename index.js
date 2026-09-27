@@ -3,3 +3,4 @@ for(var i=0; i<5;i++){
     console.log("code io");
 }
 console.log("Welcome to git course");
+console.log("three type of git reset "); 
